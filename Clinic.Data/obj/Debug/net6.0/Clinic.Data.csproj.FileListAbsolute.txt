@@ -1,0 +1,51 @@
+C:\Users\user1\Desktop\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Data.deps.json
+C:\Users\user1\Desktop\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Data.dll
+C:\Users\user1\Desktop\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Data.pdb
+C:\Users\user1\Desktop\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Core.dll
+C:\Users\user1\Desktop\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Core.pdb
+C:\Users\user1\Desktop\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.dll
+C:\Users\user1\Desktop\Clinic\Clinic.Data\obj\Debug\net6.0\refint\Clinic.Data.dll
+C:\Users\user1\Desktop\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.pdb
+C:\Users\user1\Desktop\Clinic\Clinic.Data\obj\Debug\net6.0\ref\Clinic.Data.dll
+C:\Users\user1\Desktop\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Data.runtimeconfig.json
+C:\Users\user1\Desktop\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.genruntimeconfig.cache
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Data.deps.json
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Data.runtimeconfig.json
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Data.dll
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Data.pdb
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Core.dll
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Core.pdb
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.dll
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\refint\Clinic.Data.dll
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.pdb
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.genruntimeconfig.cache
+C:\Users\user1\Desktop\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\ref\Clinic.Data.dll
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Data.deps.json
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Data.runtimeconfig.json
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Data.dll
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Data.pdb
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Core.dll
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\bin\Debug\net6.0\Clinic.Core.pdb
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.dll
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\refint\Clinic.Data.dll
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.pdb
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\Clinic.Data.genruntimeconfig.cache
+C:\Users\user1\Desktop\תכנות קורסים\DOTNET\Clinic\Clinic.Data\obj\Debug\net6.0\ref\Clinic.Data.dll

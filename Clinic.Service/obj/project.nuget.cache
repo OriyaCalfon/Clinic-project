@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TAua9v/PhNz0mfKlFYuZgoVl/ENB+tR1mawe5Pr1w5rMDXntLEsQZSYTFJk90le1S7lCMau9H91VFVvHuEAmQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\תכנות קורסים\\DOTNET\\Clinic\\Clinic.Service\\Clinic.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
